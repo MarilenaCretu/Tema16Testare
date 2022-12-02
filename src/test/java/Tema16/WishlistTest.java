@@ -1,4 +1,4 @@
-package WishList;
+package Tema16;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
